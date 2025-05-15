@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/logica/controladora.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/IGU/cargarDatos.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/logica/Mascota.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/IGU/principal.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/logica/Duenio.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/persistencia/DuenioJpaController.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/persistencia/MascotaJpaController.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/persistencia/controladoraPersistencia.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/persistencia/exceptions/IllegalOrphanException.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/src/logica/main.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/build/generated-sources/ap-source-output/logica/Duenio_.java</file>
+            <file>file:/C:/Users/marco/Documents/NetBeansProjects/peluqueriaCanina/build/generated-sources/ap-source-output/logica/Mascota_.java</file>
+        </group>
+    </open-files>
+</project-private>
